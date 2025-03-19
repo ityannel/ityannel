@@ -8,4 +8,4 @@ I'm doing a bit of design, but I’ve only touched on programming a little. I'm 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,php)](https://skillicons.dev)
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwindcss)](https://skillicons.dev)
